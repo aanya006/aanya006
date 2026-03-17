@@ -2,13 +2,13 @@
 
 Economics & Data Science student at NTU. I like building things to understand how they work.
 
-Right now I'm exploring full-stack development — picking up tools as I go and figuring out how everything fits together. Most recently built [EasyTasks](https://github.com/aanya006/EasyTasks), a task management system using React and Flask, deployed on AWS.
+Right now I'm exploring full-stack development — picking up tools as I go and figuring out how everything fits together. Most recently built [MacroSignal](https://github.com/aanya006/MacroSignal), an AI-powered macro intelligence platform for asset managers using React, Flask, PostgreSQL, and Claude AI.
 
 ### What I've been working with
 
-- **Frontend:** React, Bootstrap
-- **Backend:** Flask, PostgreSQL
-- **Other:** Docker, AWS, Git
+- **Frontend:** React, Vite, Tailwind CSS, Bootstrap
+- **Backend:** Flask, PostgreSQL, Redis
+- **Other:** Docker, AWS, Claude API, Git
 
 Still early — learning by doing.
 
