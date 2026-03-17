@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Aanya
 
-<!--
-**aanya006/aanya006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics & Data Science student at NTU. I like building things to understand how they work.
 
-Here are some ideas to get you started:
+Right now I'm exploring full-stack development — picking up tools as I go and figuring out how everything fits together. Most recently built [EasyTasks](https://github.com/aanya006/EasyTasks), a task management system using React and Flask, deployed on AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I've been working with
+
+- **Frontend:** React, Bootstrap
+- **Backend:** Flask, PostgreSQL
+- **Other:** Docker, AWS, Git
+
+Still early — learning by doing.
+
+### Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanya-jain-a1574b230/)
